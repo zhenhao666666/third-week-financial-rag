@@ -26,8 +26,12 @@ npm run serve
 ## 提交三行
 
 方向：A  
-代码仓库：本地提交文件夹 `third-week-financial-rag`（可压缩后上传，或推送到自己的 GitHub/cnb.cool 仓库）  
+代码仓库：https://github.com/zhenhao666666/third-week-financial-rag  
 一句话结论：公司内单点事实题用“页级切块 + BM25/向量混合检索”表现更稳；跨公司全景题容易漏召回，适合先按公司路由、再分组检索，而不是只把 top-k 调大。
+
+## 页面截图
+
+仓库中的 `artifacts/` 目录包含多张可核验截图：空白首页、五粮液单公司问答、贵州茅台单公司问答、四家白酒跨公司问答，以及一页结论 PDF。
 
 ## 资料来源链接
 
