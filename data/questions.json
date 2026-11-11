@@ -1,0 +1,12 @@
+[
+  {"id":"Q01","type":"单公司","question":"贵州茅台 2024 年营业收入和归属于上市公司股东的净利润是多少？","mustCompanies":["贵州茅台"],"mustKeywords":["营业收入","归属于上市公司股东的净利润"]},
+  {"id":"Q02","type":"单公司","question":"五粮液 2024 年营业收入同比增长多少？","mustCompanies":["五粮液"],"mustKeywords":["营业收入","同比"]},
+  {"id":"Q03","type":"单公司","question":"泸州老窖 2024 年度报告中的主要会计数据在哪里？","mustCompanies":["泸州老窖"],"mustKeywords":["主要会计数据"]},
+  {"id":"Q04","type":"单公司","question":"山西汾酒 2024 年的营业收入和净利润情况如何？","mustCompanies":["山西汾酒"],"mustKeywords":["营业收入","净利润"]},
+  {"id":"Q05","type":"单公司","question":"伊利股份 2024 年的主要会计数据有哪些？","mustCompanies":["伊利股份"],"mustKeywords":["主要会计数据"]},
+  {"id":"Q06","type":"单公司","question":"青岛啤酒 2024 年报告的经营情况和啤酒销量在哪些页面？","mustCompanies":["青岛啤酒"],"mustKeywords":["经营情况"]},
+  {"id":"Q07","type":"单公司","question":"海天味业 2024 年报告中披露了哪些经营计划或风险？","mustCompanies":["海天味业"],"mustKeywords":["经营计划"]},
+  {"id":"Q08","type":"单公司","question":"双汇发展 2024 年的主营业务和营业收入信息在哪里？","mustCompanies":["双汇发展"],"mustKeywords":["营业收入"]},
+  {"id":"Q09","type":"跨公司全景","question":"比较贵州茅台、五粮液、泸州老窖、山西汾酒四家白酒公司的 2024 年营业收入和归母净利润。","mustCompanies":["贵州茅台","五粮液","泸州老窖","山西汾酒"],"mustKeywords":["营业收入","净利润"]},
+  {"id":"Q10","type":"跨公司全景","question":"同时查看伊利股份、青岛啤酒、海天味业、双汇发展四家公司 2024 年的主要业绩数据。","mustCompanies":["伊利股份","青岛啤酒","海天味业","双汇发展"],"mustKeywords":["营业收入"]}
+]

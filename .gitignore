@@ -1,0 +1,8 @@
+.env
+.env.*
+data/reports/*.pdf
+data/text/*.json
+data/index/index.json
+node_modules/
+*.log
+
